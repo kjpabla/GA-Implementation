@@ -7,8 +7,6 @@ import java.util.Random;
 /**
 *
 * @author Karanjot Pabla
-* St.Number: 6231377
-* Assignment 2
 * The following program outlines and demonstrates a simple genetic algorithm (GA), generating
 * the fittest solution given the size of the solution (chromosome size), encrypted piece of text,
 * and various defined parameters for the GA; evaluated using a defined evaluation function.
