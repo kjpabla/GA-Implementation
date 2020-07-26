@@ -9,4 +9,4 @@ This project covers the findings and process of implementing a Genetic Algorithm
 This program outlines and demonstrates a simple genetic algorithm (GA), generating the fittest solution (password) given the size of the solution (chromosome size), encrypted piece of text, and various defined parameters for the GA; evaluated using a defined evaluation function.
 
 ## How to Run the Program?
-To Run the Genetic Algorithm Program (*GeneticAlgs.java*), open the Java file in your favorite IDE, compile, and then RUN it. 😊
+To Run the Genetic Algorithm Program (*GeneticAlgs.java*), compile the Java file, and then RUN it. 😊
